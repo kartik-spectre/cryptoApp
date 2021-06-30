@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cryptocurrencies Tracking App</string>
+
+    <string-array name="currencies">
+        <item>USD</item>
+        <item>INR</item>
+        <item>EUR</item>
+        <item>DKK</item>
+        <item>CAD</item>
+    </string-array>
+</resources>
